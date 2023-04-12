@@ -1,2 +1,5 @@
 # ignore all .dta files
 *.dta
+
+# ignor all .ipynb_checkpoints
+*/.ipynb_checkpoints/*
