@@ -67,7 +67,8 @@ The California Healthy Kids Survey (CHKS) data are **not publicly shared** in th
 
 ## OSF Link
 
-All study materials — including supplemental documentation, appendices, and pre-registration — are archived at the Open Science Framework (OSF): 🔗 [https://osf.io/4dpwt/](https://osf.io/4dpwt/)
+All study materials — including supplemental documentation, appendices, and pre-registration — are archived at the Open Science Framework (OSF): 
+🔗 [https://osf.io/4dpwt/](https://osf.io/4dpwt/)
 
 ## Contributing
 
@@ -81,11 +82,11 @@ This repository is intended to support transparent, ethical, and collaborative c
 
 If you use or adapt any portion of this repository, please cite:
 
-**Quiroz Sierra, V.** (2025). *Predicting Suicidal Ideation Among Native American High Schoolers in California*. Manuscript submitted to Archives of Suicide Research.
+**Sierra, V. Q.** (2025). *Predicting Suicidal Ideation Among Native American High Schoolers in California*. Manuscript submitted to Archives of Suicide Research.
 
 ## Contact
 
 For questions, collaboration opportunities, or data requests, contact:  
-📧 **Valentín Quiroz Sierra, PhD, MSW**  
+**Valentín Quiroz Sierra, PhD, MSW**  
 Postdoctoral Fellow, Center for Indigenous Health  
 [vquiroz4@jh.edu](mailto:vquiroz1@jhu.edu)
