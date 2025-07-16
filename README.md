@@ -1,13 +1,13 @@
 # Indigenous Wholistic Factors Project (IWFP)
 
-**Lead Author**: Valentín Quiroz Sierra, PhD, MSW  
-**Tribal Affiliation**: Yo'eme 
-**Academic Affiliation**: Johns Hopkins Bloomberg School of Public Health, Center for Indigenous Health  
-**Last Updated**: March 2025
+**Lead Author**: Valentín Quiroz Sierra, PhD, MSW <br>
+**Tribal Affiliation**: Yo'eme <br>
+**Academic Affiliation**: Johns Hopkins Bloomberg School of Public Health, Center for Indigenous Health <br>
+**Last Updated**: July 2025
 
 ## Overview
 
-The Indigenous Wholistic Factors Project (IWFP) is a community-engaged, data-driven initiative aimed at advancing culturally grounded understandings of suicide risk and protective factors among Native American youth in California. This repository supports the manuscript:
+The Indigenous Wholistic Factors Project (IWFP) is a community-centered, data-driven initiative aimed at advancing culturally grounded understandings of suicide risk and protective factors among Native American youth in California. This repository supports the manuscript:
 
 **"Predicting Suicidal Ideation Among Native American High Schoolers in California"**  
 
@@ -16,7 +16,7 @@ This study uses data from the 2019–2020 California Healthy Kids Survey (CHKS) 
 ## Project Goals
 
 - Advance culturally grounded knowledge of risk and protective factors to support suicide prevention among Native American youth in California
-- Apply community-centered machine learning methods through the Indigenous Computational Approach to support ethical, culturally responsive public health research
+- Apply community-centered machine learning methods through the Indigenous Computational Approach to support ethical, culturally grounded public health research
 - Promote open science practices that align with Indigenous Data Sovereignty principles
 
 ## Repository Contents
@@ -82,11 +82,14 @@ This repository is intended to support transparent, ethical, and collaborative c
 
 If you use or adapt any portion of this repository, please cite:
 
-**Sierra, V. Q.** (2025). *Predicting Suicidal Ideation Among Native American High Schoolers in California*. Manuscript submitted to Archives of Suicide Research.
+**Sierra, V. Q.** (2025). *Predicting Suicidal Ideation Among Native American High Schoolers in California*. Archives of Suicide Research, 1–18. [https://doi.org/10.1080/13811118.2025.2490154](https://doi.org/10.1080/13811118.2025.2490154).
+
 
 ## Contact
 
 For questions, collaboration opportunities, or data requests, contact:  
-**Valentín Quiroz Sierra, PhD, MSW**  
-Postdoctoral Fellow, Center for Indigenous Health  
-[vquiroz4@jh.edu](mailto:vquiroz1@jhu.edu)
+**Valentín Quiroz Sierra, PhD, MSW** (Yo'eme) <br>
+Postdoctoral Fellow <br>
+Johns Hopkins Bloomberg School of Public Health <br>
+Center for Indigenous Health <br>
+[vsierra4@jh.edu](mailto:vsierra4@jh.edu)
