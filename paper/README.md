@@ -1,7 +1,3 @@
 # Paper 
 
-This folder will contain the final manuscript for the Indigenous Wholistic Factors Project (IWFP).
-
-**Note:** This folder will be updated pending final manuscript approval and journal publication.
-
-Once approved, the full paper will be made available here in accordance with open science practices.
+**Sierra, V. Q.** (2025). *Predicting Suicidal Ideation Among Native American High Schoolers in California*. Archives of Suicide Research, 1–18. [https://doi.org/10.1080/13811118.2025.2490154](https://doi.org/10.1080/13811118.2025.2490154).
