@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# Per-run outputs from live sessions
+results/
+synthetic_chks_dataset.csv
