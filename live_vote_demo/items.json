@@ -1,0 +1,427 @@
+[
+  {
+    "id": "age",
+    "label": "Age",
+    "description": "Student age at the time of the survey."
+  },
+  {
+    "id": "grade",
+    "label": "Grade level",
+    "description": "Current school grade, including nontraditional grade classifications."
+  },
+  {
+    "id": "race",
+    "label": "Race",
+    "description": "Self-identified race and ethnicity, including Hispanic or Latino identity, multiple identities, and detailed subgroup responses."
+  },
+  {
+    "id": "gender",
+    "label": "Gender",
+    "description": "Self-reported gender identity or sex as asked in each survey version."
+  },
+    {
+    "id": "transgender",
+    "label": "Transgender identity",
+    "description": "Self-reported gender identity as transgender or nonbinary identities."
+  },
+  {
+    "id": "lgb",
+    "label": "Lesbian, Gay, Bisexual identity",
+    "description": "Self-described sexual orientation as gay, lesbian, bisexual, and questioning responses."
+  },
+  {
+    "id": "immigration_background",
+    "label": "Immigration background",
+    "description": "Place of birth and time living in the United States or California."
+  },
+  {
+    "id": "language",
+    "label": "Language spoken at home",
+    "description": "Languages spoken at home and self-reported English proficiency or English learner program participation."
+  },
+  {
+    "id": "parental_education",
+    "label": "Parental education level",
+    "description": "Highest level of education completed by parents or guardians."
+  },
+  {
+    "id": "military_family",
+    "label": "Military family connection",
+    "description": "Family military service, deployment, and students' experiences of military-related family demands and support."
+  },
+  {
+    "id": "homeless",
+    "label": "Housing/living arrangements: Homeless",
+    "description": "Where students live, or experiences of unstable or temporary housing."
+  },
+    {
+    "id": "fostercare",
+    "label": "Housing/living arrangements: Foster Care",
+    "description": "Where students live, or experiences of living in foster care."
+  },
+  {
+    "id": "economic_disadvantage",
+    "label": "Economic disadvantage",
+    "description": "Indicators of financial disadvantage, including eligibility for free or reduced-price school meals."
+  },
+  {
+    "id": "special_education",
+    "label": "Enrollment in special education",
+    "description": "Individualized education plans and participation in special education services."
+  },
+  {
+    "id": "academic_performance",
+    "label": "Academic performance",
+    "description": "Self-reported school grades and academic achievement."
+  },
+  {
+    "id": "attendance",
+    "label": "Skipping school",
+    "description": "Absences, skipped classes, and reasons for missing school, including health, safety, and family responsibilities."
+  },
+  {
+    "id": "academic_engagement",
+    "label": "Academic engagement",
+    "description": "Interest in learning, motivation, attention, effort, homework habits, and perceived value of school."
+  },
+  {
+    "id": "educational_aspirations",
+    "label": "Educational and career aspirations",
+    "description": "Goals and expectations for finishing school, attending college, and pursuing a career."
+  },
+  {
+    "id": "school_connectedness",
+    "label": "School connectedness",
+    "description": "Belonging, closeness, acceptance, and feeling valued as a member of the school community."
+  },
+  {
+    "id": "teacher_support",
+    "label": "Support from teacher or adult at school",
+    "description": "Caring relationships, encouragement, and emotional support from teachers and other adults at school."
+  },
+  {
+    "id": "school_participation",
+    "label": "Student voice and participation in school activities",
+    "description": "Opportunities to contribute to school activities, classroom discussions, decisions, and school improvement."
+  },
+  {
+    "id": "school_climate",
+    "label": "School relationships and respect",
+    "description": "How students and staff treat one another, including respect, cooperation, and the quality of peer relationships."
+  },
+  {
+    "id": "school_discipline",
+    "label": "School rules and discipline",
+    "description": "Clarity, fairness, strictness, and enforcement of school rules, including suspension and exclusionary discipline."
+  },
+  {
+    "id": "school_safety",
+    "label": "School safety",
+    "description": "Students' perceived safety at school and fears of violence or injury."
+  },
+  {
+    "id": "bullying",
+    "label": "Bullying",
+    "description": "Bullying and harassment, including verbal, physical, relational, online, and identity-based experiences, and school responses to bullying."
+  },
+  {
+    "id": "inclusive_school_climate",
+    "label": "School diversity and inclusion",
+    "description": "Respect for differences and representation of diverse racial, cultural, and other identities in school relationships and learning materials."
+  },
+  {
+    "id": "lgbtq_support",
+    "label": "LGBTQ support",
+    "description": "School safety, affirming groups, information, and support for sexual orientation and gender identity or expression."
+  },
+  {
+    "id": "school_facilities",
+    "label": "School facilities: clean vs not clean",
+    "description": "Cleanliness, physical condition, drinking water, and crowding in school facilities."
+  },
+  {
+    "id": "breakfast",
+    "label": "Ate breakfast",
+    "description": "Participation in school breakfast."
+  },
+  {
+    "id": "school_services",
+    "label": "School and community services",
+    "description": "Awareness of and access to practical school-based supports, referrals, emergency assistance, and community partnerships."
+  },
+  {
+    "id": "remote_learning",
+    "label": "Remote learning",
+    "description": "School attendance format and participation, schedules, and support for learning from home or online."
+  },
+  {
+    "id": "afterschool_activities",
+    "label": "Afterschool activities",
+    "description": "Participation, interest, access, and perceived benefits of afterschool programs, clubs, sports, arts, and other organized activities."
+  },
+  {
+    "id": "family_support",
+    "label": "Family support",
+    "description": "Care, communication, closeness, encouragement, and emotional support from parents, guardians, and family members."
+  },
+  {
+    "id": "parental_involvement",
+    "label": "Parental involvement",
+    "description": "Parent or guardian involvement in schoolwork, school events, and students' education."
+  },
+  {
+    "id": "family_participation",
+    "label": "Family participation and responsibilities",
+    "description": "Students' contributions to family decisions, household tasks, and responsibilities at home."
+  },
+  {
+    "id": "peer_support",
+    "label": "Support from peers or friends",
+    "description": "Caring friendships, emotional support, and a sense of connection with peers."
+  },
+  {
+    "id": "positive_peer_influence",
+    "label": "Positive peer influence",
+    "description": "Friends' expectations, prosocial behavior, and encouragement of school success and responsible choices."
+  },
+  {
+    "id": "community_support",
+    "label": "Support from adults in community",
+    "description": "Caring adults, encouragement, and supportive relationships beyond home and school."
+  },
+  {
+    "id": "community_connectedness",
+    "label": "Community connectedness",
+    "description": "Belonging, closeness, and attachment to the neighborhood or community."
+  },
+  {
+    "id": "community_participation",
+    "label": "Community participation",
+    "description": "Youth involvement in community groups, volunteering, service, and decisions that affect community life."
+  },
+  {
+    "id": "neighborhood_safety",
+    "label": "Neighborhood safety",
+    "description": "Perceived safety in neighborhoods, parks, and other community settings."
+  },
+  {
+    "id": "police_relations",
+    "label": "Police relationships",
+    "description": "Perceptions of fairness, safety, and conduct of police in school and community settings."
+  },
+  {
+    "id": "adult_risk_exposure",
+    "label": "Relationships with adults who engage in risky behavior",
+    "description": "Contact with adults who use or sell substances, belong to gangs, or have problems with the law."
+  },
+  {
+    "id": "family_safety",
+    "label": "Safety at home",
+    "description": "Perceived safety in the home or current living setting."
+  },
+  {
+    "id": "physical_violence",
+    "label": "Physical violence at school",
+    "description": "Experiences of physical attacks, fights, threats, or witnessing violence at school or in the community."
+  },
+  {
+    "id": "dating_violence",
+    "label": "Dating violence",
+    "description": "Physical harm or abuse by a boyfriend, girlfriend, or dating partner."
+  },
+  {
+    "id": "sexual_violence",
+    "label": "Sexual violence",
+    "description": "Forced sexual intercourse and other nonconsensual sexual experiences."
+  },
+  {
+    "id": "weapons",
+    "label": "Access to weapons",
+    "description": "Access to weapons and carrying, using, seeing, or being threatened with guns or other weapons."
+  },
+  {
+    "id": "gang_involvement",
+    "label": "Gang involvement",
+    "description": "Gang membership, exposure to gangs, recruitment, and gang-related activities or harm."
+  },
+  {
+    "id": "delinquency",
+    "label": "Juvenile justice involvement",
+    "description": "Theft, property damage, drug selling, and contact with police or the justice system."
+  },
+  {
+    "id": "gambling",
+    "label": "Gambling",
+    "description": "Participation in betting or gambling, including the types and frequency of gambling activities."
+  },
+  {
+    "id": "depressive_symptoms",
+    "label": "Depressive symptoms",
+    "description": "Self-reported sadness, hopelessness, loss of interest, and related depressive symptoms."
+  },
+  {
+    "id": "hopeless",
+    "label": "Feeling Hopeless",
+    "description": "Self-reported hopelessness."
+  },
+  {
+    "id": "anxiety",
+    "label": "Anxiety",
+    "description": "Worry, nervousness, panic, fear, tension, and difficulty relaxing."
+  },
+  {
+    "id": "psychological_distress",
+    "label": "other psychological distress",
+    "description": "Broader emotional distress, irritability, agitation, and difficulty coping, including existing distress scales."
+  },
+  {
+    "id": "trauma_symptoms",
+    "label": "Trauma-related symptoms",
+    "description": "Existing trauma-related symptom scales and profiles, including difficulties with attention, mood, sleep, and social connection."
+  },
+  {
+    "id": "si",
+    "label": "Suicidal ideation",
+    "description": "Thoughts about suicide, suicide planning, and suicide attempts."
+  },
+  {
+    "id": "self_harm",
+    "label": "Self-harm",
+    "description": "Intentional self-injury reported separately from questions about suicide attempts."
+  },
+  {
+    "id": "loneliness",
+    "label": "Loneliness",
+    "description": "Feeling alone, isolated, or disconnected from other people."
+  },
+  {
+    "id": "life_satisfaction",
+    "label": "Life satisfaction",
+    "description": "Satisfaction with life overall and with oneself, family, friendships, school, and living circumstances."
+  },
+  {
+    "id": "positive_wellbeing",
+    "label": "Positive emotional wellbeing",
+    "description": "Happiness, energy, enthusiasm, pride, and enjoyment of life."
+  },
+  {
+    "id": "optimism",
+    "label": "Optimism",
+    "description": "Positive expectations about daily experiences and the future."
+  },
+  {
+    "id": "gratitude",
+    "label": "Gratitude",
+    "description": "Feelings of thankfulness, gratitude, and appreciation."
+  },
+  {
+    "id": "self_efficacy",
+    "label": "Self-efficacy",
+    "description": "Confidence in one's abilities and capacity to succeed or handle challenges."
+  },
+  {
+    "id": "self_awareness",
+    "label": "Self-awareness and purpose",
+    "description": "Understanding one's feelings, motives, strengths, and sense of purpose."
+  },
+  {
+    "id": "emotion_regulation",
+    "label": "Emotion regulation",
+    "description": "Ability to manage emotions, calm oneself, and recover from upsetting experiences."
+  },
+  {
+    "id": "empathy",
+    "label": "Empathy",
+    "description": "Understanding other people's perspectives and responding to their feelings with care."
+  },
+  {
+    "id": "mental_health_support",
+    "label": "Availability of mental health support",
+    "description": "Awareness, availability, use, and perceived helpfulness of mental health support from adults, peers, counselors, or therapists."
+  },
+  {
+    "id": "sleep",
+    "label": "Sleep",
+    "description": "Sleep duration, bedtime and waking schedules, and reported sleep difficulties."
+  },
+  {
+    "id": "physical_health",
+    "label": "General physical health",
+    "description": "Self-rated health and reported ongoing physical health conditions."
+  },
+  {
+    "id": "somatic_symptoms",
+    "label": "Body aches and pain",
+    "description": "Reported bodily symptoms such as headaches, stomachaches, pain, dizziness, weakness, or a racing heart."
+  },
+  {
+    "id": "asthma",
+    "label": "Asthma and respiratory symptoms",
+    "description": "Asthma history, breathing symptoms, attacks, treatment, and related health care use."
+  },
+  {
+    "id": "healthcare_access",
+    "label": "Access to health care",
+    "description": "Usual sources of medical care, access to school health services, and preventive medical visits."
+  },
+  {
+    "id": "dental_care",
+    "label": "Access to dental care",
+    "description": "Dental visits and access to dental examinations, cleaning, or treatment."
+  },
+  {
+    "id": "physical_activity",
+    "label": "Level of physical activity",
+    "description": "Exercise, sports participation, muscle strengthening, and activity during physical education."
+  },
+  {
+    "id": "diet",
+    "label": "Diet and nutrition",
+    "description": "Consumption of fruits, vegetables, dairy, water, sweetened drinks, other foods, and vitamin supplements."
+  },
+  {
+    "id": "screen_time",
+    "label": "Screen time",
+    "description": "Time spent watching television, playing video games, or using computers and digital media for recreation."
+  },
+  {
+    "id": "body_image",
+    "label": "Body image",
+    "description": "Perceptions of weight or body shape and efforts to change or maintain weight, including potentially harmful weight-control practices."
+  },
+  {
+    "id": "tobacco_use",
+    "label": "Tobacco use",
+    "description": "Use of cigarettes, cigars, smokeless tobacco, and other tobacco products, including initiation and frequency."
+  },
+  {
+    "id": "vaping",
+    "label": "Vaping use",
+    "description": "Use of vaping devices or electronic cigarettes, including nicotine, cannabis, other contents, and initiation or frequency."
+  },
+  {
+    "id": "alcohol_use",
+    "label": "Alcohol use",
+    "description": "Alcohol consumption, initiation, drinking frequency, and episodes of heavy drinking or intoxication."
+  },
+  {
+    "id": "cannabis_use",
+    "label": "Cannabis use",
+    "description": "Use of marijuana, cannabis, THC, hashish, or related products, including initiation and frequency."
+  },
+  {
+    "id": "other_drug_use",
+    "label": "Other drug use",
+    "description": "Use of illicit or nonmedical substances such as stimulants, hallucinogens, inhalants, heroin, steroids, or other drugs."
+  },
+  {
+    "id": "substance_risk_perceptions",
+    "label": "Perceived harms of substance use",
+    "description": "Beliefs about health risks associated with different substances and patterns of use."
+  },
+  {
+    "id": "substance_access",
+    "label": "Level of ease to buy substances",
+    "description": "Perceived ease of obtaining substances, sources and purchase locations, and offers or sales of substances to students."
+  }
+]
