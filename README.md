@@ -43,6 +43,10 @@ This study uses data from the 2019–2020 California Healthy Kids Survey (CHKS) 
 README.md                             # Main project documentation
 ```
 
+## Live Vote Demonstration
+
+[`live_vote_demo/`](live_vote_demo/) holds a Python notebook used in a live session: a room votes on survey factors, and their top-voted items go into a LASSO model. It runs on **synthetic data**, not CHKS responses, and its results are not findings.
+
 ## Software Requirements
 
 Analyses require **Stata/SE 17.0 or higher** and the following user-written packages:
