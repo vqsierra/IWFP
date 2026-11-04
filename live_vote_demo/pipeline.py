@@ -252,3 +252,16 @@ def calibration_slope(y: np.ndarray, risk: np.ndarray) -> dict:
     logit = np.log(clipped / (1 - clipped)).reshape(-1, 1)
     model = _fit(LogisticRegression(C=1e6, solver="lbfgs", max_iter=2000), logit, y)
     return {"slope": float(model.coef_[0][0]), "intercept": float(model.intercept_[0])}
+
+
+def per_100_people(y: np.ndarray, risk: np.ndarray, false_alarm: float = 0.2) -> dict:
+    """Outcomes per 100 people at the cutoff that flags this share of people without the outcome."""
+    cutoff = float(np.quantile(risk[y == 0], 1 - false_alarm))
+    flagged = risk > cutoff
+    return {
+        "cutoff": cutoff,
+        "flagged_with": float((flagged & (y == 1)).mean() * 100),
+        "missed_with": float((~flagged & (y == 1)).mean() * 100),
+        "flagged_without": float((flagged & (y == 0)).mean() * 100),
+        "clear_without": float((~flagged & (y == 0)).mean() * 100),
+    }

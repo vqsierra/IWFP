@@ -91,6 +91,8 @@ def load_votes(board_id: str, results_csv: str | None = None) -> tuple[pd.DataFr
                 saved.parent.mkdir(exist_ok=True)
                 table.to_csv(saved, index=False)
                 source += " Saved to results/."
+    if "rehearsal" in str(results_csv or board_id).lower():
+        source = f"REHEARSAL VOTES, not this room's. {source}"
     if table["vote_count"].sum() == 0:
         raise DemoStop(f"No votes recorded yet. {source} Rerun once the room has voted.")
     return table, source
