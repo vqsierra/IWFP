@@ -4,3 +4,4 @@ __pycache__/
 # Per-run outputs from live sessions
 results/
 synthetic_chks_dataset.csv
+.idea/
