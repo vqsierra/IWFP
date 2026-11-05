@@ -1,6 +1,6 @@
 """Published IWFP values, for comparison only.
 
-Source: Sierra VQ (2025). Predicting Suicidal Ideation Among Native American High
+Source: Sierra VQ (2026). Predicting Suicidal Ideation Among Native American High
 Schoolers in California. Archives of Suicide Research 30(1):80-97.
 doi:10.1080/13811118.2025.2490154 (PMC12424082), Tables 1 and 2.
 Domains follow Table 2 and scripts/primary_analysis.do. Item ids are this demo's
