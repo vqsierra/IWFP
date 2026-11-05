@@ -1,7 +1,7 @@
 # Scripts
 
 ## Overview
-This project supports the manuscript titled *Predicting Suicidal Ideation among Native American High Schoolers in California* by Dr. Valentín Quiroz Sierra. The analysis applies lasso penalized regression to identify risk factors for suicidal ideation using the 2019–2020 California Healthy Kids Survey (CHKS) dataset.
+This project supports the published article *Predicting Suicidal Ideation Among Native American High Schoolers in California* by Dr. Valentín Quiroz de la Sierra. The analysis applies lasso penalized regression to identify risk factors for suicidal ideation using the 2019–2020 California Healthy Kids Survey (CHKS) dataset.
 
 ## Files
 - `primary_analysis.do`: Main predictive model using lasso regression with 10-fold cross-validation.

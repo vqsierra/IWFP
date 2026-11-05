@@ -1,17 +1,17 @@
 # Indigenous Wholistic Factors Project (IWFP)
 
-**Lead Author**: Valentín Quiroz Sierra, PhD, MSW <br>
+**Lead Author**: Valentín Quiroz de la Sierra, PhD, MSW <br>
 **Tribal Affiliation**: Yo'eme <br>
 **Academic Affiliation**: Johns Hopkins Bloomberg School of Public Health, Center for Indigenous Health <br>
-**Last Updated**: July 2025
+**Last Updated**: November 2026
 
 ## Overview
 
-The Indigenous Wholistic Factors Project (IWFP) is a community-centered, data-driven initiative aimed at advancing culturally grounded understandings of suicide risk and protective factors among Native American youth in California. This repository supports the manuscript:
+The Indigenous Wholistic Factors Project (IWFP) is a community-centered, data-driven initiative aimed at advancing culturally grounded understandings of suicide risk and protective factors among Native American youth in California. This repository supports the published article:
 
-**"Predicting Suicidal Ideation Among Native American High Schoolers in California"**  
+**Sierra, V. Q.** (2026). Predicting Suicidal Ideation Among Native American High Schoolers in California. *Archives of Suicide Research, 30*(1), 80–97. [https://doi.org/10.1080/13811118.2025.2490154](https://doi.org/10.1080/13811118.2025.2490154)
 
-This study uses data from the 2019–2020 California Healthy Kids Survey (CHKS) and is guided by Indigenous Wholistic Theory and the Indigenous Computational Approach. A LASSO logistic regression model was used to identify predictors of past-year suicidal ideation among Native American high school students.
+This project uses data from the 2019–2020 California Healthy Kids Survey (CHKS) and is guided by Indigenous Wholistic Theory and the Indigenous Computational Approach. A LASSO logistic regression model was used to identify predictors of past-year suicidal ideation among Native American high school students.
 
 ## Project Goals
 
@@ -23,7 +23,7 @@ This study uses data from the 2019–2020 California Healthy Kids Survey (CHKS) 
 
 ```
 /data/                                # Placeholder for analysis-ready data (not included)
-/raw_data/                            # Placeholder for raw CHKS data (not included)
+/rawdata/                             # Placeholder for raw CHKS data (not included)
 /documentation/
   ├── calschls-2019-20-crosswalk.pdf  # Survey item crosswalk
   ├── cschls_researchsum2018.pdf      # CHKS codebook and methodology
@@ -33,12 +33,14 @@ This study uses data from the 2019–2020 California Healthy Kids Survey (CHKS) 
   ├── appendixb.pdf                   # School-level clustering sensitivity analysis
   └── appendixc.pdf                   # Missing data imputation sensitivity analysis
 
-/paper/                               # Final manuscript (to be uploaded upon acceptance)
+/paper/                               # Citation for the published article
 
-/script/
+/scripts/
   ├── primary_analysis.do             # LASSO model and predictors
   ├── sensitivity_clustered.do        # Clustered schools sensitivity analysis
   └── sensitivity_imputed.do          # Missing data imputation analysis
+
+/live_vote_demo/                      # Live session notebook using synthetic data
 
 README.md                             # Main project documentation
 ```
@@ -67,7 +69,7 @@ ssc install moremata
 
 ## Data Availability
 
-The California Healthy Kids Survey (CHKS) data are **not publicly shared** in this repository due to privacy protections for youth and school districts. Researchers may request access from WestEd or local education authorities under subject of IRB approval.
+The California Healthy Kids Survey (CHKS) data are **not publicly shared** in this repository due to privacy protections for youth and school districts. Researchers may request access from WestEd or local education authorities subject to IRB approval.
 
 ## OSF Link
 
@@ -86,13 +88,17 @@ This repository is intended to support transparent, ethical, and collaborative c
 
 If you use or adapt any portion of this repository, please cite:
 
-**Sierra, V. Q.** (2025). *Predicting Suicidal Ideation Among Native American High Schoolers in California*. Archives of Suicide Research, 1–18. [https://doi.org/10.1080/13811118.2025.2490154](https://doi.org/10.1080/13811118.2025.2490154).
+**Sierra, V. Q.** (2026). Predicting Suicidal Ideation Among Native American High Schoolers in California. *Archives of Suicide Research, 30*(1), 80–97. [https://doi.org/10.1080/13811118.2025.2490154](https://doi.org/10.1080/13811118.2025.2490154)
+
+The Indigenous Computational Approach used in this project is described in:
+
+**de la Sierra, V. Q.** (2026). A Guide to Constructing Indigenous Statistical Spaces for Prevention Science Research. *Prevention Science, 27*(7), 1239–1252. [https://doi.org/10.1007/s11121-026-01911-5](https://doi.org/10.1007/s11121-026-01911-5)
 
 
 ## Contact
 
 For questions, collaboration opportunities, or data requests, contact:  
-**Valentín Quiroz Sierra, PhD, MSW** (Yo'eme) <br>
+**Valentín Quiroz de la Sierra, PhD, MSW** (Yo'eme) <br>
 Postdoctoral Fellow <br>
 Johns Hopkins Bloomberg School of Public Health <br>
 Center for Indigenous Health <br>
