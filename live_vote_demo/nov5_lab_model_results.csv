@@ -1,0 +1,56 @@
+Item,Dots,Odds ratio per SD,Kept in resamples,Result
+Depressive symptoms,4,1.421,100%,higher risk
+Other psychological distress,2,1.245,100%,higher risk
+Loneliness,3,1.193,100%,higher risk
+Feeling Hopeless,3,1.166,99%,higher risk
+Trauma-related symptoms,5,1.156,100%,higher risk
+Bullying,3,1.088,94%,higher risk
+Self-harm,3,1.039,81%,higher risk
+Emotion regulation,3,0.955,81%,protective
+Positive emotional wellbeing,2,0.933,88%,protective
+Family support,2,0.904,91%,protective
+Optimism,3,0.884,100%,protective
+Life satisfaction,4,0.863,100%,protective
+Relationships with adults who engage in risky behavior,2,1.015,56%,weak or unstable
+Support from adults in community,2,0.999,47%,weak or unstable
+School relationships and respect,2,0.982,54%,weak or unstable
+Educational and career aspirations,2,0.965,61%,weak or unstable
+Age,6,,0%,dropped
+Economic disadvantage,6,,0%,dropped
+Race,5,,0%,dropped
+Screen time,5,,0%,dropped
+Gender,4,,0%,dropped
+Support from teacher or adult at school,4,,11%,dropped
+Parental involvement,4,,2%,dropped
+Anxiety,4,,27%,dropped
+Level of physical activity,4,,0%,dropped
+Military family connection,3,,0%,dropped
+Housing/living arrangements: Homeless,3,,0%,dropped
+Housing/living arrangements: Foster Care,3,,0%,dropped
+Support from peers or friends,3,,36%,dropped
+Safety at home,3,,23%,dropped
+Sexual violence,3,,17%,dropped
+Availability of mental health support,3,,2%,dropped
+Sleep,3,,1%,dropped
+Diet and nutrition,3,,0%,dropped
+Alcohol use,3,,2%,dropped
+Grade level,2,,0%,dropped
+Transgender identity,2,,0%,dropped
+"Lesbian, Gay, Bisexual identity",2,,17%,dropped
+Immigration background,2,,0%,dropped
+Language spoken at home,2,,0%,dropped
+Parental education level,2,,0%,dropped
+Academic performance,2,,0%,dropped
+Skipping school,2,,33%,dropped
+Academic engagement,2,,8%,dropped
+Remote learning,2,,0%,dropped
+Positive peer influence,2,,7%,dropped
+Dating violence,2,,4%,dropped
+Self-efficacy,2,,23%,dropped
+Self-awareness and purpose,2,,34%,dropped
+Access to health care,2,,0%,dropped
+Body image,2,,0%,dropped
+Tobacco use,2,,0%,dropped
+Cannabis use,2,,0%,dropped
+Other drug use,2,,0%,dropped
+Level of ease to buy substances,2,,0%,dropped
