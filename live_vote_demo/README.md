@@ -2,15 +2,15 @@
 
 A room votes on which survey factors belong in a model predicting past-year suicidal ideation, then the top-voted items go into a LASSO logistic regression, following the structure of [`../scripts/primary_analysis.do`](../scripts/primary_analysis.do).
 
-**All modeling runs on synthetic data.** The 2,609 respondents are simulated and calibrated to published IWFP totals (Sierra 2025, [PMC12424082](https://pmc.ncbi.nlm.nih.gov/articles/PMC12424082/)). No CHKS respondent data are here. Results show how the method behaves. They are not findings about Native American youth, and effects for constructs IWFP didn't measure are demo settings.
+**All modeling runs on synthetic data.** The 2,609 respondents are simulated and calibrated to published IWFP totals (Sierra 2026, [PMC12424082](https://pmc.ncbi.nlm.nih.gov/articles/PMC12424082/)). No CHKS respondent data are here. Results show how the method behaves. They are not findings about Native American youth, and effects for constructs IWFP didn't measure are demo settings.
 
 Votes are collected in ChoachoakteVote. This folder holds two copies of the notebook: a **blank** one to start from, and the **saved run** from the Nov 5, 2026 room (below).
 
 ## Nov 5, 2026 run
 
-The demo ran live with the room at the AIHEC AIM-AHEAD AMC lab, using the board `nov4-talk` (84 items, with the outcome `si` left off).
+The demo ran live with the room at the AIHEC AIM-AHEAD AMC lab, using the board `nov4-talk` (84 items, with the outcome `si` left off). The session's official record is kept in the ChoachoakteVote repo, which is private for now. This copy stays here as a public example of a finished run.
 
-- **Votes:** 13 participant records, 177 dots, 75 of the 84 items got at least one dot (most dots on one item: 6). Totals are in [`nov5_lab_votes.csv`](nov5_lab_votes.csv). No participant identities are recorded, only per-item totals.
+- **Votes:** 13 participant records, 177 dots, 75 of the 84 items got at least one dot (most dots on one item: 6). Totals are in [`nov5_lab_votes.csv`](nov5_lab_votes.csv). This repo holds only per-item totals. The board itself also keeps one record per participant, with that person's votes and remaining dots, and those records are not published here.
 - **Model:** 55 voted items entered the LASSO. Seven were kept as higher risk (depressive symptoms, other psychological distress, loneliness, feeling hopeless, trauma-related symptoms, bullying, self-harm), five as protective (emotion regulation, positive emotional wellbeing, family support, optimism, life satisfaction), and four were weak or unstable. The other 39 were dropped. The table is in [`nov5_lab_model_results.csv`](nov5_lab_model_results.csv).
 - **Reading it:** these are synthetic-data results, so they show how the method treats the room's choices, not what predicts ideation among Native youth. Correlated items compete (anxiety was dropped while depressive symptoms, distress and hopelessness were kept), which is why the dropped list is not a list of unimportant factors.
 

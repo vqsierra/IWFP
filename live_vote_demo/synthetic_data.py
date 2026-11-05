@@ -5,7 +5,7 @@ public IWFP repo's "Data Availability") and its sensitive items shouldn't be
 run live in a room. Every value here is simulated.
 
 What it's calibrated to (published aggregates only, never respondent data):
-  Sierra VQ (2025). Predicting Suicidal Ideation Among Native American High
+  Sierra VQ (2026). Predicting Suicidal Ideation Among Native American High
   Schoolers in California. Archives of Suicide Research 30(1):80-97.
   doi:10.1080/13811118.2025.2490154 (PMC12424082), Table 1 and LASSO results:
   n = 2,609; past-year SI 16.8%; 50.6% female; 2.95% transgender; 17.0% sexual
