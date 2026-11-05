@@ -1,0 +1,85 @@
+item_id,label,vote_count
+age,Age,6
+grade,Grade level,2
+race,Race,5
+gender,Gender,4
+transgender,Transgender identity,2
+lgb,"Lesbian, Gay, Bisexual identity",2
+immigration_background,Immigration background,2
+language,Language spoken at home,2
+parental_education,Parental education level,2
+military_family,Military family connection,3
+homeless,Housing/living arrangements: Homeless,3
+fostercare,Housing/living arrangements: Foster Care,3
+economic_disadvantage,Economic disadvantage,6
+special_education,Enrollment in special education,1
+academic_performance,Academic performance,2
+attendance,Skipping school,2
+academic_engagement,Academic engagement,2
+educational_aspirations,Educational and career aspirations,2
+school_connectedness,School connectedness,1
+teacher_support,Support from teacher or adult at school,4
+school_participation,Student voice and participation in school activities,1
+school_climate,School relationships and respect,2
+school_discipline,School rules and discipline,0
+school_safety,School safety,1
+bullying,Bullying,3
+inclusive_school_climate,School diversity and inclusion,1
+lgbtq_support,LGBTQ support,0
+school_facilities,School facilities: clean vs not clean,0
+breakfast,Ate breakfast,1
+school_services,School and community services,1
+remote_learning,Remote learning,2
+afterschool_activities,Afterschool activities,1
+family_support,Family support,2
+parental_involvement,Parental involvement,4
+family_participation,Family participation and responsibilities,1
+peer_support,Support from peers or friends,3
+positive_peer_influence,Positive peer influence,2
+community_support,Support from adults in community,2
+community_connectedness,Community connectedness,1
+community_participation,Community participation,0
+neighborhood_safety,Neighborhood safety,1
+police_relations,Police relationships,0
+adult_risk_exposure,Relationships with adults who engage in risky behavior,2
+family_safety,Safety at home,3
+physical_violence,Physical violence at school,1
+dating_violence,Dating violence,2
+sexual_violence,Sexual violence,3
+weapons,Access to weapons,1
+gang_involvement,Gang involvement,1
+delinquency,Juvenile justice involvement,1
+gambling,Gambling,1
+depressive_symptoms,Depressive symptoms,4
+hopeless,Feeling Hopeless,3
+anxiety,Anxiety,4
+psychological_distress,Other psychological distress,2
+trauma_symptoms,Trauma-related symptoms,5
+self_harm,Self-harm,3
+loneliness,Loneliness,3
+life_satisfaction,Life satisfaction,4
+positive_wellbeing,Positive emotional wellbeing,2
+optimism,Optimism,3
+gratitude,Gratitude,1
+self_efficacy,Self-efficacy,2
+self_awareness,Self-awareness and purpose,2
+emotion_regulation,Emotion regulation,3
+empathy,Empathy,0
+mental_health_support,Availability of mental health support,3
+sleep,Sleep,3
+physical_health,General physical health,1
+somatic_symptoms,Body aches and pain,0
+asthma,Asthma and respiratory symptoms,0
+healthcare_access,Access to health care,2
+dental_care,Access to dental care,0
+physical_activity,Level of physical activity,4
+diet,Diet and nutrition,3
+screen_time,Screen time,5
+body_image,Body image,2
+tobacco_use,Tobacco use,2
+vaping,Vaping use,1
+alcohol_use,Alcohol use,3
+cannabis_use,Cannabis use,2
+other_drug_use,Other drug use,2
+substance_risk_perceptions,Perceived harms of substance use,1
+substance_access,Level of ease to buy substances,2
