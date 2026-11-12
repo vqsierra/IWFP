@@ -16,7 +16,7 @@ import pandas as pd
 HERE = Path(__file__).resolve().parent
 ITEMS = [i for i in json.loads((HERE / "items.json").read_text()) if i["id"] != "si"]
 LABELS = {i["id"]: i["label"][0].upper() + i["label"][1:] for i in json.loads((HERE / "items.json").read_text())}
-VOTES_URL = ("https://firestore.googleapis.com/v1/projects/choachoaktevote/databases/(default)"
+VOTES_URL = ("https://firestore.googleapis.com/v1/projects/mvote-app/databases/(default)"
              "/documents/boards/{board}/votes?pageSize=300")
 
 
