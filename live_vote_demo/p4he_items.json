@@ -1,0 +1,127 @@
+[
+  {
+    "id": "depressive_symptoms",
+    "label": "Feeling sad or down",
+    "description": "Sadness, losing interest in things, feeling low most days."
+  },
+  {
+    "id": "hopeless",
+    "label": "Feeling hopeless",
+    "description": "Feeling like things won't get better."
+  },
+  {
+    "id": "anxiety",
+    "label": "Worry and nerves",
+    "description": "Worry, nervousness, feeling tense or unable to relax."
+  },
+  {
+    "id": "loneliness",
+    "label": "Feeling lonely",
+    "description": "Feeling alone, isolated or disconnected from others."
+  },
+  {
+    "id": "emotion_regulation",
+    "label": "Handling big feelings",
+    "description": "Being able to calm down and recover after something upsetting."
+  },
+  {
+    "id": "optimism",
+    "label": "Hope for the future",
+    "description": "Expecting good things in daily life and the future."
+  },
+  {
+    "id": "sleep",
+    "label": "Getting enough sleep",
+    "description": "How much sleep, and trouble sleeping."
+  },
+  {
+    "id": "physical_activity",
+    "label": "Staying active",
+    "description": "Exercise, sports and moving your body."
+  },
+  {
+    "id": "breakfast",
+    "label": "Eating breakfast",
+    "description": "Eating breakfast, including at school."
+  },
+  {
+    "id": "physical_health",
+    "label": "Feeling physically healthy",
+    "description": "How healthy someone feels in their body overall."
+  },
+  {
+    "id": "family_support",
+    "label": "Family support",
+    "description": "Care, closeness and encouragement from family."
+  },
+  {
+    "id": "peer_support",
+    "label": "Friends who have your back",
+    "description": "Caring friendships and support from peers."
+  },
+  {
+    "id": "community_connectedness",
+    "label": "Belonging in community",
+    "description": "Feeling close to and part of one's community."
+  },
+  {
+    "id": "community_support",
+    "label": "Caring adults in the community",
+    "description": "Adults outside home and school who care and encourage."
+  },
+  {
+    "id": "teacher_support",
+    "label": "Caring adults at school",
+    "description": "Teachers or staff who care and offer support."
+  },
+  {
+    "id": "school_connectedness",
+    "label": "Belonging at school",
+    "description": "Feeling accepted and valued at school."
+  },
+  {
+    "id": "bullying",
+    "label": "Being bullied",
+    "description": "Being picked on, harassed or excluded, in person or online."
+  },
+  {
+    "id": "physical_violence",
+    "label": "Violence at school",
+    "description": "Fights, threats or attacks at school."
+  },
+  {
+    "id": "family_safety",
+    "label": "Feeling safe at home",
+    "description": "Feeling safe where one lives."
+  },
+  {
+    "id": "homeless",
+    "label": "Unstable housing",
+    "description": "Not having a steady, safe place to live."
+  },
+  {
+    "id": "economic_disadvantage",
+    "label": "Money hardship",
+    "description": "Family financial struggle, such as free or reduced-price meals."
+  },
+  {
+    "id": "neighborhood_safety",
+    "label": "Feeling safe in the neighborhood",
+    "description": "Feeling safe in parks, streets and community spaces."
+  },
+  {
+    "id": "alcohol_use",
+    "label": "Drinking alcohol",
+    "description": "Using alcohol, and how often."
+  },
+  {
+    "id": "vaping",
+    "label": "Vaping",
+    "description": "Using vapes or e-cigarettes."
+  },
+  {
+    "id": "lgbtq_support",
+    "label": "Support for LGBTQ+ students",
+    "description": "Affirming groups, safety and support for LGBTQ+ and Two-Spirit students."
+  }
+]

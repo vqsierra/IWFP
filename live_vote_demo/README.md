@@ -21,6 +21,7 @@ The demo ran live with the room at the AIHEC AIM-AHEAD AMC lab, using the board 
 | [`IWFP_live_vote_demo.ipynb`](IWFP_live_vote_demo.ipynb) | **Blank notebook** with no saved output: votes, dataset, model, calibration, validation. Start here for your own room. |
 | [`IWFP_live_vote_demo_nov5-2026_run.ipynb`](IWFP_live_vote_demo_nov5-2026_run.ipynb) | **Saved run** of the same notebook on the Nov 5, 2026 room's votes, with every chart and table. Read it to see what a finished run looks like. |
 | [`nov5_lab_votes.csv`](nov5_lab_votes.csv), [`nov5_lab_model_results.csv`](nov5_lab_model_results.csv) | The room's dot totals and the model's result table from that run |
+| [`P4HE_live_vote_demo.ipynb`](P4HE_live_vote_demo.ipynb), `p4he_items.json`, `p4he_rehearsal_votes.csv` | **Highlights notebook** for the Nov 19, 2026 P4HE workshop: 25 plain-language factors, five steps, large fonts for screen sharing, with details in an appendix |
 | `synthetic_data.py` | Builds the synthetic dataset (seeded, reproducible) |
 | `pipeline.py` | LASSO with the one-SE penalty, nested cross-validation, bootstrap stability check |
 | `load_votes.py` | Loads tallies from the live board or a file |
