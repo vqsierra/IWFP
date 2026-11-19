@@ -16,7 +16,7 @@ The demo ran live with the room at the AIHEC AIM-AHEAD AMC lab, using the board 
 
 ## Nov 19, 2026 P4HE run
 
-The highlights notebook ran live at the P4HE workshop on the board `p4he-nov19` (25 plain-language factors). The saved run is [`P4HE_live_vote_demo_nov19-2026_run.ipynb`](P4HE_live_vote_demo_nov19-2026_run.ipynb).
+The highlights notebook ran live at the P4HE workshop ([talk record](../talks/2026-11-19-p4he/README.md)) on the board `p4he-nov19` (25 plain-language factors). The saved run is [`P4HE_live_vote_demo_nov19-2026_run.ipynb`](P4HE_live_vote_demo_nov19-2026_run.ipynb).
 
 - **Votes:** 207 dots, and all 25 factors got at least one (most dots: Hope for the future, 18). Totals are in [`nov19_p4he_votes.csv`](nov19_p4he_votes.csv). As with the Nov 5 run, only per-item totals are published here.
 - **Model:** the LASSO kept 14 of the 25 factors. Six were higher risk (feeling sad or down, feeling hopeless, feeling lonely, being bullied, violence at school, worry and nerves), six protective (hope for the future, family support, belonging at school, handling big feelings, feeling safe at home, friends who have your back), and two weak or unstable. The other 11 were dropped. Cross-validated AUC was 0.89 (0.87 to 0.91), against 0.87 for the published model on real data. The table is in [`nov19_p4he_model_results.csv`](nov19_p4he_model_results.csv).
