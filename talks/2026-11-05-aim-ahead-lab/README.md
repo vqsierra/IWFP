@@ -1,14 +1,22 @@
-# Live room vote demonstration at the AIHEC AIM-AHEAD AMC lab
+# Research Talk and Discussion · Hands-on AI Lab Session
 
 **Valentín Quiroz de la Sierra, PhD, MSW** · Postdoctoral Fellow, Johns Hopkins Center for Indigenous Health
 
-- **Event:** AIHEC AIM-AHEAD AMC lab
-- **Date:** November 5, 2026 (planned for Nov 4, so the board kept the name `nov4-talk`)
-- **Title, host link and recording:** to be added
+- **Event:** AIM-AHEAD AIHEC AI Master and Catalyze (AMC) Program, in-person workshop, November 4–5, 2026
+- **Host:** Centers for American Indian and Alaska Native Health, University of Colorado Anschutz Medical Campus, Aurora, CO
+- **Date:** Thursday, November 5, 2026. The agenda placed the talk on Day 1 (Nov 4), and it moved to Day 2 to fit the flow of the workshop. The vote board kept the name `nov4-talk`.
+- **Format:** in person
+
+## About the session
+
+The session had two parts for AMC awardees:
+
+1. **Research talk and discussion:** an overview of the Indigenous Computational Approach, told through an accessible metaphor, followed by questions.
+2. **Hands-on AI lab:** a participatory feature-selection activity. Candidate features were posted around the room, participants voted as a group in [mVote](https://mvote.app), and the votes were tallied and run live in a notebook to show how the group's choices shape the results.
 
 ## Live demonstration
 
-The demo ran live with the room at the AIHEC AIM-AHEAD AMC lab, using the board `nov4-talk` (84 items, with the outcome `si` left off). The session's official record is in [MalverdeSoftware/mvote, `demos/nov4-iwfp-talk/`](https://github.com/MalverdeSoftware/mvote/tree/main/demos/nov4-iwfp-talk).
+The demo ran live with the room using the board `nov4-talk` (84 items, with the outcome `si` left off). The session's official record is in [MalverdeSoftware/mvote, `demos/nov4-iwfp-talk/`](https://github.com/MalverdeSoftware/mvote/tree/main/demos/nov4-iwfp-talk).
 
 - **Votes:** 13 participant records, 177 dots, 75 of the 84 items got at least one dot (most dots on one item: 6). Totals are in [`nov5_lab_votes.csv`](run/nov5_lab_votes.csv). This repo holds only per-item totals. The board itself also keeps one record per participant, with that person's votes and remaining dots, and those records are not published here.
 - **Model:** 55 voted items entered the LASSO. Seven were kept as higher risk (depressive symptoms, other psychological distress, loneliness, feeling hopeless, trauma-related symptoms, bullying, self-harm), five as protective (emotion regulation, positive emotional wellbeing, family support, optimism, life satisfaction), and four were weak or unstable. The other 39 were dropped. The table is in [`nov5_lab_model_results.csv`](run/nov5_lab_model_results.csv).
