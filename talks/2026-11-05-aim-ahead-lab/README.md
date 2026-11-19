@@ -6,6 +6,7 @@
 - **Host:** Centers for American Indian and Alaska Native Health, University of Colorado Anschutz Medical Campus, Aurora, CO
 - **Date:** Thursday, November 5, 2026. The agenda placed the talk on Day 1 (Nov 4), and it moved to Day 2 to fit the flow of the workshop. The vote board kept the name `nov4-talk`.
 - **Format:** in person
+- **Recording:** not recorded
 
 ## About the session
 
