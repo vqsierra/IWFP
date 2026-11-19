@@ -20,10 +20,13 @@ The session had four parts:
 
 ## Live demonstration
 
-Attendees placed 207 dots across 25 plain-language factors. The model kept 14 of them, with a cross-validated AUC of 0.89. All modeling used synthetic data, so the results show how the method works. They are not findings about Native youth.
+The highlights notebook ran live on the board `p4he-nov19` (25 plain-language factors). The saved run is [`P4HE_live_vote_demo_nov19-2026_run.ipynb`](run/P4HE_live_vote_demo_nov19-2026_run.ipynb).
 
-- Saved notebook run, vote totals and results: [`live_vote_demo/`](../../live_vote_demo/) (see the Nov 19 section of its README)
-- Session record and board: [MalverdeSoftware/mvote, `demos/nov19-p4he-workshop/`](https://github.com/MalverdeSoftware/mvote/tree/main/demos/nov19-p4he-workshop)
+- **Votes:** 207 dots, and all 25 factors got at least one (most dots: Hope for the future, 18). Totals are in [`nov19_p4he_votes.csv`](run/nov19_p4he_votes.csv). As with the Nov 5 run, only per-item totals are published here.
+- **Model:** the LASSO kept 14 of the 25 factors. Six were higher risk (feeling sad or down, feeling hopeless, feeling lonely, being bullied, violence at school, worry and nerves), six protective (hope for the future, family support, belonging at school, handling big feelings, feeling safe at home, friends who have your back), and two weak or unstable. The other 11 were dropped. Cross-validated AUC was 0.89 (0.87 to 0.91), against 0.87 for the published model on real data. The table is in [`nov19_p4he_model_results.csv`](run/nov19_p4he_model_results.csv).
+- **Reading it:** these are synthetic-data results. Some of the room's most-voted factors (getting enough sleep, unstable housing) were dropped because they carry little signal in the simulated data or overlap with kept factors. The drop says nothing about their real importance.
+
+The session record and board are in [MalverdeSoftware/mvote, `demos/nov19-p4he-workshop/`](https://github.com/MalverdeSoftware/mvote/tree/main/demos/nov19-p4he-workshop). To run the notebook again, use the blank highlights notebook in [`live_vote_demo/`](../../live_vote_demo/) with `RESULTS_CSV` set to the vote totals.
 
 ## Tools shown
 

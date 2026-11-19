@@ -40,14 +40,19 @@ This project uses data from the 2019–2020 California Healthy Kids Survey (CHKS
   ├── sensitivity_clustered.do        # Clustered schools sensitivity analysis
   └── sensitivity_imputed.do          # Missing data imputation analysis
 
-/live_vote_demo/                      # Live session notebook using synthetic data
+/live_vote_demo/                      # Live vote demo code and blank notebooks (synthetic data)
+/talks/                               # One folder per talk, with saved runs
 
 README.md                             # Main project documentation
 ```
 
 ## Live Vote Demonstration
 
-[`live_vote_demo/`](live_vote_demo/) holds a Python notebook used in a live session: a room votes on survey factors, and their top-voted items go into a LASSO model. It runs on **synthetic data**, not CHKS responses, and its results are not findings.
+[`live_vote_demo/`](live_vote_demo/) holds a Python notebook used in live sessions: a room votes on survey factors, and their top-voted items go into a LASSO model. It runs on **synthetic data**, not CHKS responses, and its results are not findings.
+
+## Talks
+
+[`talks/`](talks/README.md) has one folder per talk where the demonstration ran, with the event details and the saved run.
 
 ## Software Requirements
 
