@@ -3,21 +3,21 @@
 **Lead Author**: Valentín Quiroz de la Sierra, PhD, MSW <br>
 **Tribal Affiliation**: Yo'eme <br>
 **Academic Affiliation**: Johns Hopkins Bloomberg School of Public Health, Center for Indigenous Health <br>
-**Last Updated**: November 2026
+**Last updated**: November 2026
 
 ## Overview
 
-The Indigenous Wholistic Factors Project (IWFP) is a community-centered, data-driven initiative aimed at advancing culturally grounded understandings of suicide risk and protective factors among Native American youth in California. This repository supports the published article:
+The Indigenous Wholistic Factors Project (IWFP) studies risk and protective factors for suicide among Native American youth in California, using community-centered data science grounded in Indigenous knowledge. This repository holds the code and supporting materials for the published article:
 
 **Sierra, V. Q.** (2026). Predicting Suicidal Ideation Among Native American High Schoolers in California. *Archives of Suicide Research, 30*(1), 80–97. [https://doi.org/10.1080/13811118.2025.2490154](https://doi.org/10.1080/13811118.2025.2490154)
 
-This project uses data from the 2019–2020 California Healthy Kids Survey (CHKS) and is guided by Indigenous Wholistic Theory and the Indigenous Computational Approach. A LASSO logistic regression model was used to identify predictors of past-year suicidal ideation among Native American high school students.
+The study draws on the 2019–20 California Healthy Kids Survey (CHKS) and is guided by Indigenous Wholistic Theory and the Indigenous Computational Approach. A LASSO logistic regression identified predictors of past-year suicidal ideation among Native American high school students.
 
 ## Project Goals
 
-- Advance culturally grounded knowledge of risk and protective factors to support suicide prevention among Native American youth in California
-- Apply community-centered machine learning methods through the Indigenous Computational Approach to support ethical, culturally grounded public health research
-- Promote open science practices that align with Indigenous Data Sovereignty principles
+- Build culturally grounded knowledge of risk and protective factors that can inform suicide prevention for Native American youth in California
+- Apply community-centered machine learning through the Indigenous Computational Approach
+- Practice open science in line with Indigenous Data Sovereignty principles
 
 ## Repository Contents
 
@@ -56,14 +56,14 @@ README.md                             # Main project documentation
 
 ## Software Requirements
 
-Analyses require **Stata/SE 17.0 or higher** and the following user-written packages:
+The analyses require **Stata/SE 17.0 or later** and these user-written packages:
 
 - `lasso2` – Penalized regression
 - `cvauroc` – AUC estimation
 - `calibrationbelt` – Model calibration assessment
 - `moremata` – Matrix and math utilities
 
-Install them in Stata using:
+Install them in Stata with:
 
 ```stata
 ssc install lasso2
@@ -74,35 +74,29 @@ ssc install moremata
 
 ## Data Availability
 
-The California Healthy Kids Survey (CHKS) data are **not publicly shared** in this repository due to privacy protections for youth and school districts. Researchers may request access from WestEd or local education authorities subject to IRB approval.
+The California Healthy Kids Survey (CHKS) data are kept out of this repository to protect the privacy of young people and school districts. Researchers can request access from WestEd or local education agencies, subject to IRB approval.
 
-## OSF Link
+## Open Science Framework
 
-All study materials — including supplemental documentation, appendices, and pre-registration — are archived at the Open Science Framework (OSF): 
-🔗 [https://osf.io/4dpwt/](https://osf.io/4dpwt/)
+Study materials, including supplementary documentation, appendices and the preregistration, are archived on OSF at [osf.io/4dpwt](https://osf.io/4dpwt/).
 
 ## Contributing
 
-This repository is intended to support transparent, ethical, and collaborative computational research in Indigenous health. If you'd like to adapt or contribute to this project:
-
-1. Fork the repository and submit a pull request
-2. Include a description of your proposed changes
-3. Ensure your contributions respect Indigenous research ethics and Indigenous Data Sovereignty principles
+Contributions that support transparent, ethical and collaborative research in Indigenous health are welcome. To propose a change, fork the repository and open a pull request that describes it. Contributions should respect Indigenous research ethics and Indigenous Data Sovereignty principles.
 
 ## Citation
 
-If you use or adapt any portion of this repository, please cite:
+If you use or adapt any part of this repository, please cite:
 
 **Sierra, V. Q.** (2026). Predicting Suicidal Ideation Among Native American High Schoolers in California. *Archives of Suicide Research, 30*(1), 80–97. [https://doi.org/10.1080/13811118.2025.2490154](https://doi.org/10.1080/13811118.2025.2490154)
 
-The Indigenous Computational Approach used in this project is described in:
+The Indigenous Computational Approach is described in:
 
 **de la Sierra, V. Q.** (2026). A Guide to Constructing Indigenous Statistical Spaces for Prevention Science Research. *Prevention Science, 27*(7), 1239–1252. [https://doi.org/10.1007/s11121-026-01911-5](https://doi.org/10.1007/s11121-026-01911-5)
 
-
 ## Contact
 
-For questions, collaboration opportunities, or data requests, contact:  
+For questions, collaborations or data requests, contact:  
 **Valentín Quiroz de la Sierra, PhD, MSW** (Yo'eme) <br>
 Postdoctoral Fellow <br>
 Johns Hopkins Bloomberg School of Public Health <br>
