@@ -5,3 +5,10 @@
 */.ipynb_checkpoints/*
 
 
+
+# OS and editor files
+.DS_Store
+.idea/
+.venv/
+anaconda_projects/
+.ipynb_checkpoints/
