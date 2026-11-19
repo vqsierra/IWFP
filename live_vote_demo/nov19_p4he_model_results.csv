@@ -1,0 +1,26 @@
+label,vote_count,result,odds_ratio_per_sd,kept_in_resamples
+Hope for the future,18,protective,0.821,1.0
+Feeling hopeless,16,higher risk,1.328,1.0
+Getting enough sleep,16,dropped,1.0,0.43
+Unstable housing,15,dropped,1.0,0.0
+Support for LGBTQ+ students,13,dropped,1.0,0.14
+Money hardship,11,dropped,1.0,0.0
+Friends who have your back,11,protective,0.949,0.73
+Family support,10,protective,0.857,1.0
+Feeling lonely,10,higher risk,1.323,1.0
+Belonging at school,9,protective,0.935,0.87
+Being bullied,9,higher risk,1.154,0.99
+Belonging in community,8,weak or unstable,0.981,0.62
+Feeling sad or down,8,higher risk,1.626,1.0
+Caring adults at school,7,dropped,1.0,0.29
+Feeling safe in the neighborhood,7,dropped,1.0,0.11
+Handling big feelings,7,protective,0.91,0.96
+Caring adults in the community,5,weak or unstable,0.978,0.59
+Feeling safe at home,5,protective,0.964,0.7
+Violence at school,4,higher risk,1.102,0.96
+Feeling physically healthy,4,dropped,1.0,0.33
+Staying active,4,dropped,1.0,0.01
+Drinking alcohol,4,dropped,1.0,0.27
+Eating breakfast,2,dropped,1.0,0.24
+Worry and nerves,2,higher risk,1.099,0.93
+Vaping,2,dropped,1.0,0.03
