@@ -40,19 +40,19 @@ This project uses data from the 2019–2020 California Healthy Kids Survey (CHKS
   ├── sensitivity_clustered.do        # Clustered schools sensitivity analysis
   └── sensitivity_imputed.do          # Missing data imputation analysis
 
-/live_vote_demo/                      # Live vote demo code and blank notebooks (synthetic data)
-/talks/                               # One folder per talk, with saved runs
+/live_vote_demo/                      # Interactive teaching demonstration (synthetic data)
+/talks/                               # Talks that featured the demonstration
 
 README.md                             # Main project documentation
 ```
 
 ## Live Vote Demonstration
 
-[`live_vote_demo/`](live_vote_demo/) holds a Python notebook used in live sessions: a room votes on survey factors, and their top-voted items go into a LASSO model. It runs on **synthetic data**, not CHKS responses, and its results are not findings.
+[`live_vote_demo/`](live_vote_demo/README.md) is an interactive teaching version of the IWFP method. Participants vote on survey factors with the free [mVote](https://mvote.app) app, and their top choices go into a LASSO model run live in a Python notebook. The demonstration uses **synthetic data** and contains no California Healthy Kids Survey responses, so its results serve as teaching examples only.
 
 ## Talks
 
-[`talks/`](talks/README.md) has one folder per talk where the demonstration ran, with the event details and the saved run.
+[`talks/`](talks/README.md) lists the talks and workshops that featured the demonstration, with event details and the results from each session.
 
 ## Software Requirements
 
